@@ -1,0 +1,152 @@
+/**{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+*/
+/*#unorder {
+	background: #000;
+	overflow: hidden;
+}
+#unorder li{
+	list-style: none;
+	float: left;
+}
+#unorder li a {
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 20px;
+	display: inline-block;
+	text-transform: capitalize;
+}
+#unorder li a:hover {
+	background: red;
+	border-radius: 5px;
+	color: #000;
+}
+.dropdown-content {
+	background: #f9f9f9;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+	display: none;
+	position: absolute;
+	border-radius: 5px;
+}
+.dropdown-content a {
+	color: #000;
+	display: block;
+}
+.dropdown-content a:hover {
+	background: #f1f1f1;
+}
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+*/
+
+/*==== FREECODECAMP.ORG WEBSITE*/
+
+/*body{
+  font-size:16px;
+  line-height:1.3em;
+}
+#main {
+  background: #EEEEEE;
+}
+#title{
+  text-align:center;
+}
+#title h1 {
+  padding-top:60px;
+  font-size: 40px;
+}
+#title p {
+  color: #333333;
+  margin: 30px;
+}
+#img-div {
+  background: #fff;
+  text-align:center;
+  margin:15px;
+}
+#img-caption{
+  padding-bottom: 3px;
+}
+#headline{
+  text-align:center;
+  margin-top:50px;
+}
+ul {
+  
+  margin: 50px auto;
+  text-align: left;
+}
+li {
+  margin: 0 auto 15px auto
+}
+#tribute-info{
+  max-width: 550px;
+  margin: 0 auto;
+}
+#tribute-link {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+*/
+/*.q{
+	font-size: 24pt;
+	line-height: 10ex;
+	word-spacing: 15mm;
+}
+*/
+.q{
+	margin: 10px 100px;
+}
+#unorder .list{
+	list-style: none;
+	color: red;
+	background: black;
+	margin-top: 2px;
+	padding: 10px;
+	max-width: 300px;
+	text-align: center;
+	font-size: 22px;
+}
+.lead1{
+	background: red;
+	padding: 5px;
+	font-size: 22px;
+}
+.lead2{
+	background: green;
+	font-size: 22px;
+	color: #fff;
+}
+#btn{
+	background: blue;
+	color: #fff;
+	font-size: 22px;
+	border:none;
+	padding: 15px 25px;
+	border-radius: 5px;
+	margin-left: 35px;
+}
+#box{
+	max-width: 400px;
+	height: 100px;
+	padding: 10px;
+	color: red;
+	background: black;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+
+#name{
+	background: blue;
+	padding: 10px 20px;
+	margin-top: 10px;
+	border: 2px solid red;
+	border-radius: 5px;
+	color: #fff;
+	font-size: 20px;
+}
